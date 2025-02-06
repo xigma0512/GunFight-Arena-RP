@@ -1,0 +1,12 @@
+{
+    "resource_pack_name": "C4 Bomb",
+    "texture_name": "atlas.items",
+    "texture_data": {
+        "c4": {
+            "textures": "textures/items/c4"
+        },
+        "wire_stripper": {
+            "textures": "textures/items/wire_stripper"
+        }
+    }
+}

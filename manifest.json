@@ -1,0 +1,41 @@
+{
+    "format_version": 2,
+    "metadata": {
+        "authors": [
+            "xigma0512"
+        ],
+        "generated_with": {
+            "bridge": [
+                "2.7.42"
+            ],
+            "dash": [
+                "0.11.7"
+            ]
+        }
+    },
+    "header": {
+        "name": "GunFight-Arena RP",
+        "min_engine_version": [
+            1,
+            21,
+            0
+        ],
+        "uuid": "e2b29834-9e80-42c1-8604-fde1e5033160",
+        "version": [
+            1,
+            0,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "56462d57-916a-4e37-b0ee-e3fb157b698c",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
